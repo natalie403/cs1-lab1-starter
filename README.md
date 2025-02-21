@@ -5,7 +5,9 @@
 2. Write pseudocode for your program in *PSEUDO.txt*
 
 ## Assignment Specification
-1. Write a program that *prints* the following text to the terminal, replacing the each of the appropriate fields:
+### My First Program
+1. Implement this program in *main.cpp*
+2. Write a program that *prints* the following text to the terminal, replacing the each of the appropriate fields:
 ```
 Hello, world!
 My name is <YOUR NAME>
