@@ -1,1 +1,8 @@
-Add pseudocode here
+My first C++ program
+
+1. Greet the world
+2. Introduce myself
+3. Write about my C++ program
+4. Write a fun fact about myself
+5. Combine all the above statements
+6. Print the statements
